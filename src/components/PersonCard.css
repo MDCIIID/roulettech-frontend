@@ -1,0 +1,11 @@
+
+
+.person-card-container {
+    .person-card {
+        border: 1px solid #339;
+        border-radius: 15px;
+        width: 175px;
+        height: 160px;
+    }
+}
+
